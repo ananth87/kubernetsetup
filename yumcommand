@@ -1,5 +1,0 @@
- comment out swap in /etc/fstab
-swapoff -a
-free -m
-yum install -y kubelet kubeadm kubectl docker
-
