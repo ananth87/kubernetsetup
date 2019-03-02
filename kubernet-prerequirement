@@ -19,4 +19,4 @@ EOF
 
 sysctl --system
 
-yum install -y kubelet kubeadm kubectl docker
+
